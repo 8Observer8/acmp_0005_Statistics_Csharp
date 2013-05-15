@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acmp_0005_Statistics_Csharp", "acmp_0005_Statistics_Csharp\acmp_0005_Statistics_Csharp.csproj", "{35488500-1554-4214-A85E-C51566D741EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestStatistics", "UnitTestStatistics\UnitTestStatistics.csproj", "{8AD23AF5-11C9-4D5F-AA5D-DDDA78671B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageStatistics", "UsageStatistics\UsageStatistics.csproj", "{F2299B83-D7D3-4CA5-9533-87025F0E8D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35488500-1554-4214-A85E-C51566D741EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35488500-1554-4214-A85E-C51566D741EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35488500-1554-4214-A85E-C51566D741EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35488500-1554-4214-A85E-C51566D741EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD23AF5-11C9-4D5F-AA5D-DDDA78671B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD23AF5-11C9-4D5F-AA5D-DDDA78671B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD23AF5-11C9-4D5F-AA5D-DDDA78671B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD23AF5-11C9-4D5F-AA5D-DDDA78671B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2299B83-D7D3-4CA5-9533-87025F0E8D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2299B83-D7D3-4CA5-9533-87025F0E8D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2299B83-D7D3-4CA5-9533-87025F0E8D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2299B83-D7D3-4CA5-9533-87025F0E8D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

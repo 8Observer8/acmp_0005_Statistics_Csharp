@@ -1,0 +1,8 @@
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\bin\Debug\UsageStatistics.exe.config
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\bin\Debug\UsageStatistics.exe
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\bin\Debug\UsageStatistics.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\bin\Debug\acmp_0005_Statistics_Csharp.dll
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\bin\Debug\acmp_0005_Statistics_Csharp.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\obj\Debug\UsageStatistics.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\obj\Debug\UsageStatistics.exe
+D:\Documents\C#\Acmp\Problems\acmp_0005_Statistics_Csharp_Sol\UsageStatistics\obj\Debug\UsageStatistics.pdb
